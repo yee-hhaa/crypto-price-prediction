@@ -1,6 +1,5 @@
 yfinance
 numpy
 scikit-learn
-keras
-tensorflow
+tensorflow-cpu
 streamlit
