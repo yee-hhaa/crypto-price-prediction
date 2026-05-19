@@ -1,0 +1,6 @@
+yfinance
+numpy
+scikit-learn
+keras
+tensorflow
+streamlit
